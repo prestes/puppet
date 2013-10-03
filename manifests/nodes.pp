@@ -1,0 +1,3 @@
+node 'wsdev' {
+	include nginx
+}
