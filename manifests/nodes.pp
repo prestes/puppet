@@ -1,3 +1,3 @@
 node 'wsdev' {
-	include nginx
+  include nginx
 }
